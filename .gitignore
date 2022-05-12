@@ -1,0 +1,13 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+classes/
+generated-sources/
+maven-archiver/
+maven-status/
+# Project exclude paths
+#/target/
